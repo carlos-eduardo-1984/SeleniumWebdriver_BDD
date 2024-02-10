@@ -1,5 +1,5 @@
-# M5W4_SeleniumWebdriver_BDD
-M5W4_SeleniumWebdriver
+# SeleniumWebdriver_BDD
+SeleniumWebdriver
 
 
 Receita para criar projetos do zero  - framework cucumber-js com Selenium
